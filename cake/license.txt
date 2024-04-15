@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cake
+* source:	https://sketchfab.com/3d-models/cake-2a7fb109c3654e28860b8ca99c6f1fbd
+* author:	charalamboscharalambous8 (https://sketchfab.com/charalamboscharalambous8)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cake" (https://sketchfab.com/3d-models/cake-2a7fb109c3654e28860b8ca99c6f1fbd) by charalamboscharalambous8 (https://sketchfab.com/charalamboscharalambous8) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
